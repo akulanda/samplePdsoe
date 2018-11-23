@@ -1,0 +1,1 @@
+MESSAGE "Sample create" VIEW-AS ALERT-BOX. 
