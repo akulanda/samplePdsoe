@@ -21,7 +21,7 @@ CLASS Order_Entry:
         
     CONSTRUCTOR PUBLIC Order_Entry (  ):
         SUPER ().
-        
+        /* This is sample File */
     END CONSTRUCTOR.
 
     DESTRUCTOR PUBLIC Order_Entry ( ):
